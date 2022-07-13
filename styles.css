@@ -1,0 +1,55 @@
+body{
+    background-color:#E5E5E5 ;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#ensemble{
+	width:550px;
+	height:450px;
+    background-color: white;
+    padding: 18px;
+
+}
+
+#titre{
+    color:#F24A02;
+    font-family: 'kumbh sans',sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+
+}
+
+#titre1{
+    font-size: 44px;
+    font-family:'kumbh sans',sans-serif ;
+    margin-top: -8px;
+    
+}
+
+#par{
+   color: #7C818D;
+   font-family: 'kumbh sans',sans-serif ;
+   font-size: 16px ;
+   margin-top: 20px;
+   letter-spacing: 1.1px;
+
+}
+
+#prix{
+    font-size: 28px ;
+    font-weight: bold;
+    font-family: 'kumbh sans',sans-serif ;
+}
+
+#prix2{
+    text-decoration:line-through;
+    font-size:14px ;
+    font-family: 'kumbh sans',sans-serif ;
+    font-weight: bold;
+    color:#A1A5AE ;
+    margin-top: -30px;
+}
